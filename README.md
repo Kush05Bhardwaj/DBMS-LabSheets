@@ -46,6 +46,10 @@ The lab focuses on:
 - TCL Commands
 - DCL Commands
 
+### Theory Assignment 1
+
+### Theory Assignment 2
+
 ---
 
 ## 🛠️ Technologies Used
